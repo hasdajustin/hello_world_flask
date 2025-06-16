@@ -1,0 +1,25 @@
+body{
+    width: 100%!important;
+    height: 100vh!important;
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+
+}
+.container{
+    width: 50%!important;
+    height: 50vh!important;
+    background: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center!important;
+    align-items: center!important;
+    border-radius: 10px;
+}
+
+h1{
+    color: rgb(0, 177, 177)!important;
+}
+p{
+    color: rgb(255, 255, 255)!important;
+}
