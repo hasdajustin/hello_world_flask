@@ -2,11 +2,11 @@
 
 **Aim:** To Learn `flask` from basic concepts to advanced techniques.
 
-1. install flask
+**1. install flask**
 ```bash
 pip install flask
 ```
-2. code
+**2. code**
 ```bash
 from flask import Flask
 
@@ -19,11 +19,11 @@ def hello():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-3. run server
+**3. run server**
 ```bash
 python flaskapp.py
 ```
-4. running on
+**4. running on**
 ```bash
 [python app.py](http://127.0.0.1:5000)
 ```
