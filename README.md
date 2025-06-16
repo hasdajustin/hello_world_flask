@@ -25,5 +25,5 @@ python flaskapp.py
 ```
 **4. running on**
 ```bash
-[python app.py](http://127.0.0.1:5000)
+[python flaskapp.py](http://127.0.0.1:5000)
 ```
